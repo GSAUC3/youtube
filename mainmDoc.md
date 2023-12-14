@@ -1,0 +1,1 @@
+To update the color of an object in manim like point, use `set_color()` method

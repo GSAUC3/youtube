@@ -1,0 +1,2 @@
+`TexMobject` -> Tex 
+`TextMobject` -> TexText    
